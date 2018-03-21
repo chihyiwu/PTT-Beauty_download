@@ -14,8 +14,8 @@ def download_images(articles):
         res = requests.get('https://www.ptt.cc'+article['href'])
         #過濾文章內所有圖檔連結
         images = reg_imgur_file.findall(res.text)
-
-        total = len(images)
+        #用set過濾重複陣列，再用len計算陣列數
+        total = len(set(images))
         count = 0
         if total >0:
             print ("即將開始下載 "+article.text+"，共"+str(total)+"張圖片!")
