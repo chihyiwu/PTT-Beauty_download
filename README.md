@@ -11,8 +11,9 @@
 ### 操作教學
 請先確認電腦有安裝 Python 3.6.4
 接著安裝相關套件
-
+開啟命令提示字元 CMD 輸入下列指令：
 ```python Beauty_download.py 1```
+
 EX.爬PTT beauty板(表特板)最新1頁的文章內容圖片
 
 # cmd執行畫面
