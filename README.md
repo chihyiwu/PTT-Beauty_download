@@ -13,6 +13,13 @@
 接著安裝相關套件
 
 ```python Beauty_download.py 1```
-爬PTT beauty板(表特板) _ 頁的文章內容圖片
+EX.爬PTT beauty板(表特板)最新1頁的文章內容圖片
 
-# 執行畫面
+# cmd執行畫面
+![image](https://github.com/chihyiwu/PTT-Beauty_download/blob/master/%E7%AF%84%E4%BE%8B1.JPG)
+
+# 下載狀況
+![image](https://github.com/chihyiwu/PTT-Beauty_download/blob/master/%E7%AF%84%E4%BE%8B2.JPG)
+
+# 資料夾內容
+![image](https://github.com/chihyiwu/PTT-Beauty_download/blob/master/%E7%AF%84%E4%BE%8B3.JPG)
